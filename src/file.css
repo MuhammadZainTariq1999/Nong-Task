@@ -1,0 +1,21 @@
+.card{
+  width: 40%;
+  margin-left: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 20px;
+}
+.text{
+  color:  #32CD32;
+  border-radius: 5px;
+  padding: 5px;
+  background-color: rgb(224,255,255);
+}
+h1{
+  font-size:50px; 
+  margin-left: 70px;
+  color:  #32CD32;
+  margin-right: 0;
+  border:5px;
+}
